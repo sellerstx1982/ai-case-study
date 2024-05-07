@@ -7,9 +7,10 @@ Aurora Innovation, Inc is a company focused on self-driving hardware and softwar
 There isn't a specific story publicly released about how the three founders met or how they united to form the company in 2017, but all three have many years of experience in the self-driving field and it's believed they gravitated toward each other through that experience. 
 
 ## Founders
-*Chris Urmson led Google's self-driving team as chief technology officer. [2]
-*Sterling Anderson was head of Tesla Autopilot. [2]
-*Drew Bagnell was in charge of Uber's autonomy and perception team. [2] 
+
+### Chris Urmson led Google's self-driving team as chief technology officer. [2]
+### Sterling Anderson was head of Tesla Autopilot. [2]
+### Drew Bagnell was in charge of Uber's autonomy and perception team. [2] 
 
 ## Funding 
 
