@@ -9,11 +9,11 @@ There isn't a specific story publicly released about how the three founders met 
 ## Founders
 
 ### Chris Urmson:
-*Led Google's self-driving team as chief technology officer. [2]
+* Led Google's self-driving team as chief technology officer. [2]
 ### Sterling Anderson:
-*Previously head of Tesla's Autopilot program. [2]
+* Previously head of Tesla's Autopilot program. [2]
 ### Drew Bagnell:
-*Formerly in charge of Uber's autonomy and perception team. [2] 
+* Formerly in charge of Uber's autonomy and perception team. [2] 
 
 ## Funding 
 
