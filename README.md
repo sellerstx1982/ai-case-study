@@ -59,45 +59,34 @@ There isn't a specific story publicly released about how the three founders met 
 
 ### Products
 
-* Aurora Driver: Self-driving hardware and software.
-   Installed and tested on Class 8 trucks and Toyota minivans in Texas since 2020 and 2022.
-* Aurora Connect: Ride
-  
-  Tested on Class 8 trucks in Texas since 2020 and used to operate Toyota Sienna 
+* Aurora Driver: Self-driving system installed and tested on Class 8 trucks and minivans in Texas since 2020 and 2022.
+* Aurora Connect: Ride-sharing program using Toyota Sienna minivans set to begin in late 2024.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+### Technologies
 
-Aurora has the expertise of the company's founders, who led the AI driving divisions at Google, Tesla, and Uber. In addition to the founders' background, Aurora already has a self-driving system, which is called the Aurora Driver. Aurora is provided actual vehicles from partnered companies including: Paccar, the manufacturers of Peterbilt and Kenworth, and Toyota. Aurora has tested both Class 8 (18 wheeler) trucks, along with Toyota's Sienna Minivan model. The Class 8 trucks having access to roads in Texas since 2020 has allowed Aurora to have to test and improve upon their product, the Aurora Driver. Toyota Sienna minivans have also been tested in the Dallas, Texas area. Aurora is expected to open Aurora Connect in late 2024 for ridesharing services in Dallas. These and many other factors, put Aurora in an elite class of autonomous driving companies in the industry. [3]
+* LiDAR (Light Detection and Ranging): Uses FMCW (Frequency Modulated Continuous Wave) to build a three-dimensional map surrounding the vehicle, reaching up to 1,300 feet. [3]
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Cameras: High-resolution cameras recognize traffic signals, lane markings, and other visual indicators, allowing the Aurora Driver to drive safely. [3]
 
-LiDAR (Light Detection and Ranging): Uses FMCW (Frequency Modulated Continuous Wave) to build a three-dimensional map surrounding the vehicle, reaching up to 1,300 feet. [3]
+* Radar: Functions to support LiDAR and cameras during any weather condition and low-light instances. Radar easily detects objects at various distances. [3]
 
-Cameras: High-resolution cameras recognize traffic signals, lane markings, and other visual indicators, allowing the Aurora Driver to drive safely. [3]
+* Perception Software: Merges information from all sensors (LiDAR, cameras, radar) to process the vehicle's surroundings and create an up-to-date image encompassing the vehicle. This up-to-date image recognizes, objects, pedestrians, traffic signals, and more. [3]
 
-Radar: Functions to support LiDAR and cameras during any weather condition and low-light instances. Radar easily detects objects at various distances. [3]
+* Localization and Mapping Software: Assists the Aurora Driver in exacting its spot on a map and travelling within that map. GPS, sensor data, and high-def maps help position the vehicle correctly within the correct area. [3]
 
-Perception Software: Merges information from all sensors (LiDAR, cameras, radar) to process the vehicle's surroundings and create an up-to-date image encompassing the vehicle. This up-to-date image recognizes, objects, pedestrians, traffic signals, and more. [3]
+* Decision-Making and Planning Software: Uses the perceived environment, mapping, and traffic regulations to make appropriate driving decisions. [3]
 
-Localization and Mapping Software: Assists the Aurora Driver in exacting its spot on a map and travelling within that map. GPS, sensor data, and high-def maps help position the vehicle correctly within the correct area. [3]
+* Machine Learning: Algorithms are probably used to stack for tasks such as object recognition, sensor data processing, and optimized decision-making. [3]
 
-Decision-Making and Planning Software: Uses the perceived environment, mapping, and traffic regulations to make appropriate driving decisions. [3]
+* Powerful Computer System: The Aurora Driver has high-performing computers that are important for interpreting all the sensor data and handling complicated software algorithms while the system is functioning. [3]
 
-Machine Learning: Algorithms are probably used to stack for tasks such as object recognition, sensor data processing, and optimized decision-making. [3]
+* Integration Hardware: Devices that control operations that includes steering, braking, and acceleration. [3]
 
-Powerful Computer System: The Aurora Driver has high-performing computers that are important for interpreting all the sensor data and handling complicated software algorithms while the system is functioning. [3]
+* Simulation Tools: Testing of the Aurora Driver using virtual environments to improve at a faster rate before entry to the real-world. [3]
 
-Integration Hardware: Devices that control operations that includes steering, braking, and acceleration. [3]
+## Industry Trends and Innovations
 
-Simulation Tools: Testing of the Aurora Driver using virtual environments to improve at a faster rate before entry to the real-world. [3]
-
-## Landscape
-
-* What field is the company in? Self-driving vehicles
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years? 
-
-The major trends in self-driving vehicles over the past ten years have included: 
+* Major Trends
 
 2014-2016: More investment and excitement had tech companies like Google and carmakers like Ford and General Motors begin researching autonomous vehicles.
 
