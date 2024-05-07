@@ -1,7 +1,5 @@
-# ai-case-study
-AI Case Study for Module 1 Challenge.
-
-Roaring Ahead With Aurora 
+# Roaring Ahead With Aurora 
+AI Case Study for Module 1 Challenge
 
 ## Overview and Origin
 Aurora Innovation, Inc is a company focused on autonomous driving hardware and software. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2]
