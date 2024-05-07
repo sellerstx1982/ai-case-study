@@ -39,13 +39,17 @@ There isn't a specific story publicly released about how the three founders met 
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+### Target Customers
 
-The problem Aurora is trying to solve is to make driverless cars safer and more reliable.
+* Traditional Automakers
+* Ride-sharing and Delivery Companies
+* Logistics and Trucking Companies
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+### Market Information
 
-Aurora's intended customers are: traditional automakers, ride-sharing and delivery companies, and logistics companies.
+* Unable to specify actual total size of the market.
+* McKinsey & Company estimates the market size to be $1.5 trillion by 2030.
+* Aurora's market cap based on future potential is $4.4 billion.
 
 Aurora's market size cannot be determined, but I found their market cap and market opportunity information about autonomous vehicles. Aurora's market cap, which is the total market value placed on Aurora based on its future potential is $4.4 billion. In regards to market opportunity information, McKinsey & Company predicts the autonomous vehicle market to be $1.5 trillion by 2030. [3]  
 
