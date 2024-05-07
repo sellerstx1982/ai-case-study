@@ -56,7 +56,7 @@ There isn't a specific story publicly released about how the three founders met 
 * Expertise of Founders
 * Partnerships with Vehicle Manufacturers
   Paccar (Peterbilt and Kenworth)
-  Toyota
+  and Toyota
 * Access to city streets and highways in Texas.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
