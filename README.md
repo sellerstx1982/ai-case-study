@@ -88,12 +88,21 @@ There isn't a specific story publicly released about how the three founders met 
 
 * Major Trends
 
-2014-2016: More investment and excitement had tech companies like Google and carmakers like Ford and General Motors begin researching autonomous vehicles.
+    2014-2016: More investment and excitement had tech companies like Google and carmakers like Ford and General Motors accelerate              researching autonomous driving. [3]
 
-2016-2020: 
+    2016-2020: Concern arose when deadlines for implementation were missed due to challenges of predictability in real-world situations. [3]
 
-All the major technologies discussed above have improved over the past 10 years, including Cybersecurity to defend against hacking capabilities.
+    2020-2024: Challenges were faced with caution and companies focused how to apply their products by partnering with automakers. [3]
 
+* Other Trends
+
+    Advanced Driver-Assistance Systems (ADAS) that automatically brake and warn drivers of cars nearby have become more common. [3]     
+
+    Government regulations are continuing to be discussed in more detail to focus on issues like liability, safety and cybersecurity. [3]
+
+    Ethical concerns such as whether to swerver or stay the course when danger arises begin to emerge. Other concerns are privacy, job          loss, biases are also being considered and addressed. [3]
+    
+* Major Competitors
 
 
 * What are the other major companies in this field?
