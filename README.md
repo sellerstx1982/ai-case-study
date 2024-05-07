@@ -88,7 +88,7 @@ There isn't a specific story publicly released about how the three founders met 
 
 * Major Trends
 
-    2014-2016: More investment and excitement had tech companies like Google and carmakers like Ford and General Motors accelerate              researching autonomous driving. [3]
+    2014-2016: More investment and excitement had tech companies like Google and carmakers like Ford and General Motors accelerate researching autonomous driving. [3]
 
     2016-2020: Concern arose when deadlines for implementation were missed due to challenges of predictability in real-world situations. [3]
 
