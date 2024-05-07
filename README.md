@@ -4,7 +4,7 @@ AI Case Study for Module 1 Challenge
 ## Overview and Origin
 Aurora Innovation, Inc is a company focused on self-driving hardware and software. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2]
 
-There isn't a specific story publicly released about how the three founders met or how they united to form the company in 2017, but all three have many years of experience in the self-driving field and it's believed they gravitated toward each other through that experience. 
+There isn't a specific story publicly released about how the three founders met or how they united to form the company in 2017, but all three have many years of experience in the self-driving field and it's believed they gravitated toward each other through that experience. [2] [3]
 
 ## Founders
 
@@ -55,6 +55,8 @@ There isn't a specific story publicly released about how the three founders met 
 
 * Expertise of Founders
 * Partnerships with Vehicle Manufacturers
+  Paccar (Peterbilt and Kenworth)
+  Toyota
 * Access to city streets and highways in Texas.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
