@@ -23,7 +23,7 @@ There isn't a specific story publicly released about how the three founders met 
 * Lightspeed Venture Partners
 ### Strategic partnerships
 * Uber:
-** Invested $400 million
+  Invested $400 million
 
 ### Going public
 ### Stock issuance
