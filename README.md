@@ -18,17 +18,24 @@ There isn't a specific story publicly released about how the three founders met 
 ## Funding 
 
 ### Venture capital
-* Sequoia Capital
-* Greylock Partners
-* Lightspeed Venture Partners
+* Sequoia Capital [3]
+* Greylock Partners [3] 
+* Lightspeed Venture Partners [3]
+
 ### Strategic partnerships
-* Uber:
-  Invested $400 million
+* Uber [3]
+* Toyota [3]
+* Paccar (Manufacturer for Kenworth and Peterbilt [3]
 
 ### Going public
-### Stock issuance
+* SPAC merger with Reinvent Technology Partners Y [3]
+* Additional $1.8 Billion Raised [3]
+* Ticker Symbol "AUR" [3]
 
-An estimate of the amount of funding for Aurora is $2.62 billion. This figure is based on their funding rounds of more than $1.8 billion from a merger with a Special Purpose Acquisition Company (SPAC) in late 2021 and $820 million from a public and private stock offering in July 2023. [3]
+### Stock issuance
+* Public and Private Offering [3]
+* $820 Million Raised [3]
+* Roughly 1.55 Billion Shares Outstanding [3]
 
 ## Business Activities
 
