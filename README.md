@@ -2,9 +2,13 @@
 AI Case Study for Module 1 Challenge
 
 ## Overview and Origin
-Aurora Innovation, Inc is a company focused on autonomous driving hardware and software. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2]
+Aurora Innovation, Inc is a company focused on self-driving hardware and software. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2]
 
-There isn't a specific story about how the three founders met or how they decided to form the company, but all three have many years of experience in the self-driving field. Chris Urmson led Google's self-driving team as chief technology officer, Sterling Anderson was head of Tesla Autopilot, and Drew Bagnell was in charge of Uber's autonomy and perception team. [2] [3]  
+There isn't a specific story about how the three founders met or how they united to form the company, but all three have many years of experience in the self-driving field. 
+
+*Chris Urmson led Google's self-driving team as chief technology officer. [2]
+*Sterling Anderson was head of Tesla Autopilot. [2]
+*Drew Bagnell was in charge of Uber's autonomy and perception team. [2] 
 
 * Name of company 
 
