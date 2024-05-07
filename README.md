@@ -4,29 +4,19 @@ AI Case Study for Module 1 Challenge
 ## Overview and Origin
 Aurora Innovation, Inc is a company focused on self-driving hardware and software. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2]
 
-There isn't a specific story about how the three founders met or how they united to form the company, but all three have many years of experience in the self-driving field. 
+There isn't a specific story publicly released about how the three founders met or how they united to form the company in 2017, but all three have many years of experience in the self-driving field and it's believed they gravitated toward each other through that experience. 
 
+## Founders
 *Chris Urmson led Google's self-driving team as chief technology officer. [2]
 *Sterling Anderson was head of Tesla Autopilot. [2]
 *Drew Bagnell was in charge of Uber's autonomy and perception team. [2] 
 
-* Name of company 
+## Funding 
 
-Aurora Innovation, Inc [2]
-
-* When was the company incorporated? 
-
-2017 [2]
-
-* Who are the founders of the company? Chris Urmson, Sterling Anderson, and Drew Bagnell [2]
-
-* How did the idea for the company (or project) come about? 
-
-While the origin story appears to be private, it's believed the founders' experience in self-driving technology led them to start their own company. [3] 
-
-* How is the company funded? How much funding have they received? 
-
-The company has been funded in four different ways: venture capital, strategic partnerships, going public, and stock issuance.
+### Venture capital
+### Strategic partnerships
+### Going public
+### Stock issuance
 
 An estimate of the amount of funding for Aurora is $2.62 billion. This figure is based on their funding rounds of more than $1.8 billion from a merger with a Special Purpose Acquisition Company (SPAC) in late 2021 and $820 million from a public and private stock offering in July 2023. [3]
 
