@@ -25,7 +25,7 @@ There isn't a specific story publicly released about how the three founders met 
 ### Strategic partnerships
 * Uber [3]
 * Toyota [3]
-* Paccar (Manufacturer for Kenworth and Peterbilt [3]
+* Paccar (Manufacturer for Kenworth and Peterbilt) [3]
 
 ### Going public
 * SPAC merger with Reinvent Technology Partners Y [3]
@@ -53,11 +53,17 @@ There isn't a specific story publicly released about how the three founders met 
 
 ### Advantages
 
-* Expertise of Founders
-* Partnerships with Vehicle Manufacturers
-  Paccar (Peterbilt and Kenworth)
-  and Toyota
+* Expertise of founders.
+* Partnerships with vehicle manufacturers.
 * Access to city streets and highways in Texas.
+
+### Products
+
+* Aurora Driver: Self-driving hardware and software.
+   Installed and tested on Class 8 trucks and Toyota minivans in Texas since 2020 and 2022.
+* Aurora Connect: Ride
+  
+  Tested on Class 8 trucks in Texas since 2020 and used to operate Toyota Sienna 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
