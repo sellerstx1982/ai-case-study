@@ -41,17 +41,21 @@ There isn't a specific story publicly released about how the three founders met 
 
 ### Target Customers
 
-* Traditional Automakers
-* Ride-sharing and Delivery Companies
-* Logistics and Trucking Companies
+* Traditional Automakers [3]
+* Ride-sharing and Delivery Companies [3]
+* Logistics and Trucking Companies [3]
 
 ### Market Information
 
-* Unable to specify actual total size of the market.
-* McKinsey & Company estimates the market size to be $1.5 trillion by 2030.
-* Aurora's market cap based on future potential is $4.4 billion.
+* Unable to specify actual total size of the market. [3]
+* McKinsey & Company estimates the market size to be $1.5 trillion by 2030. [3]
+* Aurora's market cap based on future potential is $4.4 billion. [3]
 
-Aurora's market size cannot be determined, but I found their market cap and market opportunity information about autonomous vehicles. Aurora's market cap, which is the total market value placed on Aurora based on its future potential is $4.4 billion. In regards to market opportunity information, McKinsey & Company predicts the autonomous vehicle market to be $1.5 trillion by 2030. [3]  
+### Advantages
+
+* Expertise of Founders
+* Partnerships with Vehicle Manufacturers
+* Access to city streets and highways in Texas.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
