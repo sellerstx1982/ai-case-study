@@ -128,7 +128,7 @@ There isn't a specific story publicly released about how the three founders met 
 
      Investors: Venture capital, going public, and stock issuance has shown confidence in Aurora's future. [3] [5] [6] [7] [8]
 
-  * Major Competitors
+* Major Competitors
 
     Waymo: Google's parent company Alphabet's self-driving car that current offers ride-sharing service in Phoenix, Arizona. [3] [42]
 
