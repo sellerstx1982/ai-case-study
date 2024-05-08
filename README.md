@@ -141,7 +141,7 @@ There isn't a specific story publicly released about how the three founders met 
 ### Potential Services
   
 * Delivering food and other items to consumers.
-* Games for riders to promote discounts when automated ride services begin for commercial use. [45]
+* Virtural reality and touch screen games when ride services begin for commercial use. [45]
 * Self-driving motorcyles will be a safer way for riders to navigate cities and enjoy scenery in rural areas.
 
 ### Additional Technologies for Potential Services
