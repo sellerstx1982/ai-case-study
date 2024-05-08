@@ -80,84 +80,77 @@ There isn't a specific story publicly released about how the three founders met 
 
 * Powerful Computer System: The Aurora Driver has high-performing computers that are important for interpreting all the sensor data and handling complicated software algorithms while the system is functioning. [3] [17] [20]
 
-* Integration Hardware: Fusion controls operations that includes steering, braking, and acceleration. [3]
+* Integration Hardware: Nicknamed "Fusion", will control steering, braking, and acceleration. [3] [25]
 
-* Simulation Tools: Testing of the Aurora Driver using virtual environments to improve at a faster rate before entry to the real-world. [3]
+* Simulation Tools: Testing of the Aurora Driver using Amazon Web Services (AWS) to improve at a faster rate before entry to the real-world. [3] [26]
 
 ## Industry Trends and Innovations
 
 * Major Trends
 
-    2014-2016: More investment and excitement had tech companies like Google and carmakers like Ford and General Motors accelerate researching autonomous driving. [3]
+    2014-2016: More investment and excitement had tech companies like Google and carmakers like Ford and General Motors accelerate researching autonomous driving. [3] [27]
 
-    2016-2020: Concern arose when deadlines for implementation were missed due to challenges of predictability in real-world situations. [3]
+    2016-2020: Concern arose when deadlines for implementation were missed due to challenges of predictability in real-world situations. [3] [28]
 
-    2020-2024: Challenges were faced with caution and companies focused how to apply their products by partnering with automakers. [3]
+    2020-2024: Challenges were faced with caution and companies focused on how to apply their products by partnering with automakers. [3] [15] [16]
 
 * Other Trends
 
-    Advanced Driver-Assistance Systems (ADAS) that automatically brake and warn drivers of cars nearby have become more common. [3]     
+    Advanced Driver-Assistance Systems (ADAS) that automatically brake and warn drivers of cars nearby have become more common. [3] [29]    
 
-    Government regulations are continuing to be discussed in more detail to focus on issues like liability, safety and cybersecurity. [3]
+    Government regulations are continuing to be discussed in more detail to focus on issues like liability, safety and cybersecurity. [3] [30]
 
-    Ethical concerns such as whether to swerver or stay the course when danger arises begin to emerge. Other concerns are privacy, job loss, biases are also being considered and addressed. [3]
+    Ethical concerns such as whether to swerver or stay the course when danger arises begin to emerge. Other concerns are privacy, job loss, biases are also being considered and addressed. [3] [31]
     
-* Major Competitors
+* Innovations
 
-    Waymo: Google's parent company Alphabet's self-driving car that current offers ride-sharing service in Phoenix, Arizona.
+    LiDAR: Frequency Modulated Continuous Wave (FMCW) lidar has greater range, instant velocity data, and is interference free. [3] [32]
 
-    Cruise: General Motors' subsidiary that has tested vehicles in a dozen U.S. cities.
+    Machine Learning: Taking the next step into deep learning models has improved recognition of road impediments, sensor processing, operation of the vehicle, among other things vital to automated driving. [3] [33] 
 
-    Tesla: Autopilot system assists, but is not fully autonomous. Tesla expects their vehicles to be fully self-driving at some point.
+    Cybersecurity: Conducting reviews, installing vulnerability detections and prevention software, and improving the ability to surveil and react to threats.  [3] [34]
 
 ## Results
 
 * Business Impact
 
-     Business impact has been minimal since they do not generate revenue yet. [3]
+     Transforming the trucking industry to reduce the number of drivers necessary. [3] [35]
 
-     Investor interest has fueled much of Aurora's growth. [3]
+     Investor interest and going public has fueled much of Aurora's financial growth. [3] [36] 
 
-     Partnerships with vehicle manufacturers has shown confidence in generating revenue down the road. [3]
+     Partnerships with vehicle manufacturers has shown confidence in generating revenue down the road. [3] [6]
 
 * Core Metrics
 
-     Technical Milestones: Successful road testing of the Aurora Driver.
+     Technical Milestones: Successful road testing of the Aurora Driver. [3] [37]
 
-     Partnerships: Vehicle manufacturers have maintained their positions.
+     Partnerships: Maintaining platform, logistics, and technology partners. [3] [38] [39] [40] 
 
-     Investors: Venture capital, going public, and stock issuance has shown confidence in Aurora's future.
+     Investors: Venture capital, going public, and stock issuance has shown confidence in Aurora's future. [3] [5] [6] [7] [8]
 
-*Competitors
+  * Major Competitors
 
-     Waymo
-         Subsidiary of Alphabet [4]
-         $5.7 billion in funding [4]
-         2,734 Employees [4]
-         
-     Nuro
-         Private Company [4]
-         $1.5 billion in funding [4]
-         919 Employees [4]
+    Waymo: Google's parent company Alphabet's self-driving car that current offers ride-sharing service in Phoenix, Arizona. [3] [41]
 
-     TuSimple
-         Publicly Traded Company [4]
-         $640 million in funding [4]
-         1,450 Employees [4]
+    Cruise: General Motors' subsidiary that has tested vehicles in several U.S. cities. [3] [42] 
+
+    Tesla: Autopilot system assists, but is not fully autonomous. Tesla expects their vehicles to be fully self-driving at some point. [3] [43]
 
 ## Recommendations
 
 ### Potential Services
   
-* Delivery: Consumers like having food and other items brought to them.
-* Games: When commercial services begin for riders games might be a fun way to promote discounts.
-* Motorcycles: Self-driving motorcyles will be a safer way for riders to navigate cities and enjoy scenery in rural areas.
+* Delivering food and other items to consumers.
+* Games for riders to promote discounts when automated ride services begin for commercial use. [44]
+* Self-driving motorcyles will be a safer way for riders to navigate cities and enjoy scenery in rural areas.
 
 ### Additional Technologies for Potential Services
 
-* Robotics to bring consumer items from vehicle to phyisical location to ensure customer satisfaction.
+* Robotics to bring consumer items from vehicle to phyisical location to ensure customer satisfaction. [45]
 * Touch screens in vehicles to select and play games to give consumers a way to save money.
 * More advanced version of Aurora Driver to perform the actions of riding a motorcycle.
+
+> "Building on years of development and testing, our work toward the safe and scalable deployment of driverless trucks is nearing a historic milestone. Today will show why we believe we will have the essential components not only for Commercial Launch but also deployment at scale to support a strong and self-sustaining business," said Chris Urmson, CEO and co-founder of Aurora. [46]
 
 [1] https://aurora.tech/company
 
@@ -206,3 +199,47 @@ There isn't a specific story publicly released about how the three founders met 
 [23] https://blog.aurora.tech/engineering/forecasting-part-1-understanding-interaction
 
 [24] https://blog.aurora.tech/engineering/auroras-data-engine-how-we-accelerate-machine-learning-model-workflows
+
+[25] https://blog.aurora.tech/products/meet-fusion-the-aurora-drivers-next-generation
+
+[26] https://press.aboutamazon.com/2021/12/aurora-accelerates-development-of-the-aurora-driver-with-aws#:~:text=The%20Aurora%20Driver%20consists%20of%20sensors%20that,is%20all%2Din%20on%20AWS%2C%20and%20it%20uses
+
+[27] https://www.greenbiz.com/article/7-companies-steering-self-driving-car-craze
+
+[28] https://www.sciencenews.org/article/five-challenges-self-driving-cars
+
+[29] https://www.spglobal.com/mobility/en/research-analysis/selfdriving-cars-wont-happen-without-smarter-adas.html
+
+[30] https://www.faegredrinker.com/en/insights/publications/2023/9/2023-legislative-and-regulatory-developments-affecting-autonomous-vehicles#:~:text=While%20the%20federal%20government%20has,states%20historically%20embraced%20autonomous%20vehicles.
+
+[31] https://www.askhandle.com/blog/regulation-in-self-driving
+
+[32] https://blog.aurora.tech/progress/firstlight-lidar-on-a-chip
+
+[33] https://www.tcs.com/insights/blogs/deep-learning-fully-autonomous-vehicles#:~:text=A%20deep%20learning%20approach&text=Autonomous%20driving%20consists%20of%20three,algorithms%20implemented%20in%20conventional%20controllers.
+
+[34] [https://www.ptc.com/en/blogs/alm/simulation-testing-in-autonomous-driving-development](https://spectrum.ieee.org/cybersecurity-for-autonomous-vehicles-must-be-a-top-concern-for-automakers)
+
+[35] https://www.freightwaves.com/news/robots-to-displace-transport-and-manufacturing-workers-in-vast-numbers
+
+[36] https://lsvp.com/stories/driving-innovation-aurora-goes-public/
+
+[37] https://www.cbsnews.com/texas/news/a-look-inside-road-testing-self-driving-18-wheelers-in-north-texas/
+
+[38] https://blog.aurora.tech/progress/introducing-collaboration-partners-aurora-horizon
+
+[39] https://newsroom.fedex.com/newsroom/global-english/fedex-and-aurora-expand-autonomous-commercial-linehaul-trucking-pilot-in-texas-ahead-of-schedule
+
+[40] https://ir.aurora.tech/news-events/press-releases/detail/57/uber-freight-and-aurora-expand-pilot-to-autonomously-haul
+
+[41] https://waymo.com/
+
+[42] https://www.getcruise.com/
+
+[43] https://www.tesla.com/support/autopilot
+
+[44] https://blog.aurora.tech/products/introducing-aurora-horizon-and-aurora-connect
+
+[45] https://en.wikipedia.org/wiki/Delivery_robot#:~:text=A%20delivery%20robot%20is%20an,is%20stuck%20in%20an%20obstacle.
+
+[46] https://ir.aurora.tech/news-events/press-releases/detail/92/aurora-to-showcase-driverless-trucks-navigating-advanced
