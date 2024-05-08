@@ -2,7 +2,7 @@
 AI Case Study for Module 1 Challenge
 
 ## Overview and Origin
-Aurora Innovation, Inc is a company focused on self-driving hardware and software. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2]
+Aurora Innovation, Inc is a company focused on self-driving hardware and software with 1,700. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2] [4]
 
 There isn't a specific story publicly released about how the three founders met or how they united to form the company in 2017, but all three have many years of experience in the self-driving field and it's believed they gravitated toward each other through that experience. [2] [3]
 
@@ -18,49 +18,50 @@ There isn't a specific story publicly released about how the three founders met 
 ## Funding 
 
 ### Venture capital
-* Sequoia Capital [3]
-* Greylock Partners [3] 
-* Lightspeed Venture Partners [3]
+* Sequoia Capital [3] [5]
+* Greylock Partners [3] [5]
+* Lightspeed Venture Partners [3] [5]
 
 ### Strategic partnerships
-* Uber [3]
-* Toyota [3]
-* Paccar (Manufacturer for Kenworth and Peterbilt) [3]
+* Uber [3] [6]
+* Toyota [3] [6]
+* Paccar (Manufacturer for Kenworth and Peterbilt) [3] [6]
 
 ### Going public
-* SPAC merger with Reinvent Technology Partners Y [3]
-* Additional $1.8 Billion Raised [3]
-* Ticker Symbol "AUR" [3]
+* SPAC merger with Reinvent Technology Partners Y [3] [7]
+* Additional $1.8 Billion Raised [3] [7]
+* Ticker Symbol "AUR" [3] [7]
 
 ### Stock issuance
-* Public and Private Offering [3]
-* $820 Million Raised [3]
-* Roughly 1.55 Billion Shares Outstanding [3]
+* Public and Private Offering [3] [8]
+* $820 Million Raised [3] [8]
+* Roughly 1.55 Billion Shares Outstanding [3] [8]
 
 ## Business Activities
 
 ### Target Customers
 
-* Traditional Automakers [3]
-* Ride-sharing and Delivery Companies [3]
-* Logistics and Trucking Companies [3]
+* Traditional Automakers [3] [9]
+* Ride-sharing and Delivery Companies [3] [10]
+* Logistics and Trucking Companies [3] [11]
 
 ### Market Information
 
 * Unable to specify actual total size of the market. [3]
-* McKinsey & Company estimates the market size to be $1.5 trillion by 2030. [3]
-* Aurora's market cap based on future potential is $4.4 billion. [3]
+* McKinsey & Company estimates autonomous-driving revenues could be between $300-$400 billion by 2035. [3] [12]
+* Aurora's market cap based on future potential is $4.4 billion. [3] [13]
 
 ### Advantages
 
-* Expertise of founders.
-* Partnerships with vehicle manufacturers.
-* Access to city streets and highways in Texas.
+* Expertise of founders. [3] [14]
+* Partnerships with vehicle manufacturers. [3] [15]
+* Access to roads in Texas. [3] [16]
 
 ### Products
 
-* Aurora Driver: Self-driving system installed and tested on Class 8 trucks and minivans in Texas since 2020 and 2022.
-* Aurora Connect: Ride-sharing program using Toyota Sienna minivans set to begin in late 2024.
+* Aurora Driver: Self-driving system used to safely operate cars or trucks. [3] [17] [18]
+* Aurora Beacon: Base of operations that allows communcation on a variety of levels throughout trips. [3] [18] 
+* Aurora Shield: Roadside assistance program that will be ready for any type of scenario. [3] [18]
 
 ### Technologies
 
@@ -100,39 +101,80 @@ There isn't a specific story publicly released about how the three founders met 
 
     Government regulations are continuing to be discussed in more detail to focus on issues like liability, safety and cybersecurity. [3]
 
-    Ethical concerns such as whether to swerver or stay the course when danger arises begin to emerge. Other concerns are privacy, job          loss, biases are also being considered and addressed. [3]
+    Ethical concerns such as whether to swerver or stay the course when danger arises begin to emerge. Other concerns are privacy, job loss, biases are also being considered and addressed. [3]
     
 * Major Competitors
 
+    Waymo: Google's parent company Alphabet's self-driving car that current offers ride-sharing service in Phoenix, Arizona.
 
-* What are the other major companies in this field?
+    Cruise: General Motors' subsidiary that has tested vehicles in a dozen U.S. cities.
+
+    Tesla: Autopilot system assists, but is not fully autonomous. Tesla expects their vehicles to be fully self-driving at some point.
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Business Impact
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+     Business impact has been minimal since they do not generate revenue yet. [3]
 
-* How is your company performing relative to competitors in the same field?
+     Investor interest has fueled much of Aurora's growth. [3]
+
+     Partnerships with vehicle manufacturers has shown confidence in generating revenue down the road. [3]
+
+* Core Metrics
+
+     Technical Milestones: Successful road testing of the Aurora Driver.
+
+     Partnerships: Vehicle manufacturers have maintained their positions.
+
+     Investors: Venture capital, going public, and stock issuance has shown confidence in Aurora's future.
+
+*Competitors
+
+     Waymo
+         Subsidiary of Alphabet [4]
+         $5.7 billion in funding [4]
+         2,734 Employees [4]
+         
+     Nuro
+         Private Company [4]
+         $1.5 billion in funding [4]
+         919 Employees [4]
+
+     TuSimple
+         Publicly Traded Company [4]
+         $640 million in funding [4]
+         1,450 Employees [4]
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) 
+### Potential Services
+  
+* Delivery: Consumers like having food and other items brought to them.
+* Games: When commercial services begin for riders games might be a fun way to promote discounts.
+* Motorcycles: Self-driving motorcyles will be a safer way for riders to navigate cities and enjoy scenery in rural areas.
 
-Games for riders, and perhaps resulting in potential discounts for riders.
+### Additional Technologies for Potential Services
 
-* Why do you think that offering this product or service would benefit the company?
-
-Games for fun, and for discounts gives the impression the company is fun, and  willing to give its customers an opportunity to save money if they choose.
-
-* What technologies would this additional product or service utilize?
-
-Automated motorcycle riding technology would use aspects of the Aurora Driver to function. Automated flying technology might be influenced by the Aurora Driver too.
-
-* Why are these technologies appropriate for your solution?
-
-There is a market for people who like riding motorcycles and would enjoy being able to let the autonomous technology take over sometimes, while enjoying the ride.
+* Robotics to bring consumer items from vehicle to phyisical location to ensure customer satisfaction.
+* Touch screens in vehicles to select and play games to give consumers a way to save money.
+* More advanced version of Aurora Driver to perform the actions of riding a motorcycle.
 
 [1] https://aurora.tech/company
 [2] https://en.wikipedia.org/wiki/Aurora_Innovation
 [3] https://gemini.google.com/app
+[4] https://craft.co/aurora/competitors
+[5] https://blog.aurora.tech/progress/investing-in-the-future-of-transportation-aurora-raises
+[6] https://ir.aurora.tech/news-events/press-releases/detail/22/aurora-is-acquiring-ubers-self-driving-unit-advanced
+[7] https://ir.aurora.tech/news-events/press-releases/detail/23/aurora-expected-to-close-business-combination-with-reinvent
+[8] https://ir.aurora.tech/news-events/press-releases/detail/79/aurora-announces-closing-of-820-million-upsized-public
+[9] https://paccar.com/news/archived-news/2021/paccar-and-aurora-form-strategic-partnership-to-develop-autonomous-trucks/
+[10] https://www.businesswire.com/news/home/20211022005337/en/Aurora-Makes-Major-Progress-in-2021-Toward-Commercializing-Self-Driving-Technology 
+[11] https://aurora.tech/freight
+[12] https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/autonomous-drivings-future-convenient-and-connected
+[13] https://companiesmarketcap.com/aurora-innovation/marketcap/
+[14] https://www.indexventures.com/perspectives/aurora-self-driving-and-beyond/
+[15] https://ir.aurora.tech/news-events/press-releases/detail/35/aurora-unveils-ride-hailing-test-fleet-based-on-the-toyota
+[16] https://apnews.com/article/trucks-selfdriving-highways-automation-driver-083409631158f54d806d75309c4764e2
+[17] https://aurora.tech/aurora-driver
+[18] https://blog.aurora.tech/products/introducing-aurora-horizon-and-aurora-connect
