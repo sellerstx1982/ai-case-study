@@ -1,5 +1,4 @@
-# Roaring Ahead With Aurora 
-AI Case Study for Module 1 Challenge
+# Roaring Ahead With Aurora
 
 ## Overview and Origin
 Aurora Innovation, Inc is a company focused on self-driving hardware and software with 1,700. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2] [4]
@@ -65,7 +64,7 @@ There isn't a specific story publicly released about how the three founders met 
 
 ### Technologies
 
-* LiDAR (Light Detection and Ranging): Uses FMCW (Frequency Modulated Continuous Wave) to build a three-dimensional map surrounding the vehicle, reaching up to 1,300 feet. [3]
+* LiDAR (Light Detection and Ranging): Uses FMCW (Frequency Modulated Continuous Wave) to build a three-dimensional map surrounding the vehicle, reaching up to 1,300 feet. [3] [19]
 
 * Cameras: High-resolution cameras recognize traffic signals, lane markings, and other visual indicators, allowing the Aurora Driver to drive safely. [3]
 
@@ -178,3 +177,4 @@ There isn't a specific story publicly released about how the three founders met 
 [16] https://apnews.com/article/trucks-selfdriving-highways-automation-driver-083409631158f54d806d75309c4764e2
 [17] https://aurora.tech/aurora-driver
 [18] https://blog.aurora.tech/products/introducing-aurora-horizon-and-aurora-connect
+[19] https://cacm.acm.org/news/still-waiting-for-self-driving-cars/
