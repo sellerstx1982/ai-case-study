@@ -1,7 +1,7 @@
 # Roaring Ahead With Aurora
 
 ## Overview and Origin
-Aurora Innovation, Inc is a company focused on self-driving hardware and software with 1,700. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2] [4]
+Aurora Innovation, Inc is a company focused on self-driving hardware and software with 1,700. The company's headquarters are in Pittsburgh, Pennsylvania and Mountain View, California, with offices in San Francisco, Bozeman, Montana, and Texas. Aurora is currently testing vehicles in the San Francisco Bay Area, Pittsburgh (Pennsylvania), and Dallas (Texas), Detroit (Michigan), Louisville (Colorado), Seattle (Washington). [1] [2]
 
 There isn't a specific story publicly released about how the three founders met or how they united to form the company in 2017, but all three have many years of experience in the self-driving field and it's believed they gravitated toward each other through that experience. [2] [3]
 
@@ -46,7 +46,7 @@ There isn't a specific story publicly released about how the three founders met 
 
 ### Market Information
 
-* Unable to specify actual total size of the market. [3]
+* Autonomous vehicle market size in 2024 estimated to be $14.79 billion. [47]
 * McKinsey & Company estimates autonomous-driving revenues could be between $300-$400 billion by 2035. [3] [12]
 * Aurora's market cap based on future potential is $4.4 billion. [3] [13]
 
@@ -243,3 +243,6 @@ There isn't a specific story publicly released about how the three founders met 
 [45] https://en.wikipedia.org/wiki/Delivery_robot#:~:text=A%20delivery%20robot%20is%20an,is%20stuck%20in%20an%20obstacle.
 
 [46] https://ir.aurora.tech/news-events/press-releases/detail/92/aurora-to-showcase-driverless-trucks-navigating-advanced
+
+[47] [https://www.precedenceresearch.com/autonomous-vehicle-market#:~:text=The%20global%20autonomous%20vehicle%20market,USD%2036.4%20billion%20in%202022.](https://www.mordorintelligence.com/industry-reports/us-autonomous-car-market)
+
